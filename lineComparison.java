@@ -15,7 +15,7 @@ public class lineComparison {
 	{
 		System.out.println("Both lines are equale");
 	}
-	else if (dis1 < dis2) {
+	else if (dis1 > dis2) {
 		System.out.println("Line one is greater then line two");
 	}
 	else
